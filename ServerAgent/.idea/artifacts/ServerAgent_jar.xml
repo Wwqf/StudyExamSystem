@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ServerAgent:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServerAgent_jar</output-path>
+    <root id="archive" name="ServerAgent.jar">
+      <element id="module-output" name="ServerAgent" />
+    </root>
+  </artifact>
+</component>
